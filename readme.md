@@ -26,10 +26,10 @@ npm run start
 ## Screenshot
 
 ##### Page 1
-![Page](./screenshots/register.png "Page")
+<img src="./screenshots/Screenshot-1.png" width="300" height="600">
 
-##### Page 1
-![Page](./screenshots/register.png "Page")
+##### Page 1 (Cont.)
+<img src="./screenshots/Screenshot-2.png" width="300" height="600">
 
 ##### Detail
-![Detail](./screenshots/register.png "Detail")
+<img src="./screenshots/Screenshot-3.png" width="300" height="600">
